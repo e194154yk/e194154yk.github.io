@@ -1,0 +1,27 @@
+h1{
+    color:salmon;
+     text-align:  center;
+    background-color: yellow;
+    
+}
+
+h2{
+    color:aqua;
+     text-align:  center;
+    background-color: pink;
+    
+    
+}
+
+h3{
+    color:violet;
+}
+
+p{
+    color:dodgerblue;     
+}
+
+body{
+    background-image : url("../images/f9a2f49b0c533eaaaed707e2812e26ed_t.jpeg")
+        
+}
