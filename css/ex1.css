@@ -1,0 +1,28 @@
+h1{
+    color:orangered;
+     text-align:  center;
+    background-color: snow;
+    
+}
+
+h2{
+    color:pink;
+     text-align:  center;
+    background-color: aqua;
+    
+    
+}
+
+ul{background-image : url("../images/haikei.jfif")
+        }
+
+table{
+    background-color:lightgreen;
+}
+
+
+
+body{
+    background-image : url("../images/f9a2f49b0c533eaaaed707e2812e26ed_t.jpeg")
+        
+}
