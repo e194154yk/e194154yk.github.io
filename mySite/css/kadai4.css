@@ -1,0 +1,35 @@
+h1{
+     text-align:  center;      
+}
+
+h1#syumi{
+   color:orangered;
+   background-color: snow;
+}
+
+h1#rink{
+   color:blueviolet;
+   background-color: fuchsia;
+}
+
+
+h2{
+     text-align:  center;   
+}
+
+h2#syumi1{
+   color:greenyellow;
+   background-color: lightcyan;
+}
+
+h2#syumi2{
+   color:deepskyblue;
+   background-color: gold;
+}
+
+
+
+body{
+    background-image : url("../images/f9a2f49b0c533eaaaed707e2812e26ed_t.jpeg")
+        
+}
