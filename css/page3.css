@@ -1,0 +1,178 @@
+div.wrap{
+    width : 1000px;
+    margin : 0px auto;
+}
+
+div.title{
+    width : 1000px;
+    height : 50px;
+    font-size:0px;
+    background-color : aquamarine;
+    margin-bottom: 20px;
+}
+span.hedda-{
+    width : 550px;
+    height : 50px;
+    background-color: white;
+    display:inline-block;
+    color: red;
+    font-size:30px;
+    font-family: "Impact";
+    text-align: left;
+   
+}
+
+span.menuitem{
+    width : 150px;
+    height : 50px;
+    background-color: white;
+    color:  red;
+    display:inline-block;
+    font-size:30px;
+    font-family: "Impact";
+    text-align: center;
+
+}
+
+div.images{
+    width : 1000px;
+    height : 500px;
+    
+}
+
+div.article{
+    width:1000px;
+    height:50px;
+    background-color:darkgreen;
+    color:  white;
+    font-size: 15px;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+span.middletitle{
+    width:1000px;
+    height:40px;
+    background-color: darkgreen;
+    color:  white;
+   
+    font-size:15px;
+    font-family: "Impact";
+    text-align:left;
+    margin-bottom: 20px;
+}
+
+div.rugby{
+    width: 1000px;
+    height: 330px;
+}
+span.Content{
+    width:1000px;
+    height:330px;
+    display:inline-block;
+}
+span.Content1{
+    width:200px;
+    height:150px;
+    background-color: cornsilk;
+    display:inline-block;
+    font-family: "Impact";
+    text-align: center;
+    margin-right:  50px;
+    margin-bottom: 10px;
+}
+
+span.Content2{
+    width:200px;
+    height:150px;
+    background-color: cornsilk;
+    display:inline-block;
+    font-size:30px;
+    font-family: "Impact";
+    text-align: center;
+    margin-right:  50px;
+    margin-bottom: 10px;
+}
+
+span.Content3{
+    width:200px;
+    height:150px;
+    background-color: cornsilk;
+    display:inline-block;
+    font-size:30px;
+    font-family: "Impact";
+    text-align: center;
+    margin-right:  50px;
+    margin-bottom: 10px;
+    
+}
+
+span.Content4{
+    width:200px;
+    height:150px;
+    background-color: cornsilk;
+    display:inline-block;
+    font-size:30px;
+    font-family: "Impact";
+    text-align: center;
+    margin-bottom: 10px;
+}
+span.Content5{
+    width:200px;
+    height:150px;
+    background-color: cornsilk;
+    display:inline-block;
+    font-size:30px;
+    font-family: "Impact";
+    text-align: center;
+    margin-right:  50px;
+    margin-bottom: 20px;
+}
+span.Content6{
+    width:200px;
+    height:150px;
+    background-color: cornsilk;
+    display:inline-block;
+    font-size:30px;
+    font-family: "Impact";
+    text-align: center;
+     margin-right:  50px;
+    margin-bottom: 20px;
+}
+
+span.Content7{
+    width:200px;
+    height:150px;
+    background-color: cornsilk;
+    display:inline-block;
+    font-size:30px;
+    font-family: "Impact";
+    text-align: center;
+    margin-right:  50px;
+   margin-bottom: 20px;
+}
+
+span.Content8{
+    width:200px;
+    height:150px;
+    background-color: cornsilk;
+    display:inline-block;
+    font-size:30px;
+    font-family: "Impact";
+    text-align: center;
+    margin-bottom: 20px;
+    
+}
+
+
+div.futter{
+     width : 1000px;
+    height: 40px;
+    background-color: white;
+    color:  red;
+    display:inline-block;
+    font-size:30px;
+    font-family: "Impact";
+    text-align: center;
+    margin-top: 30px;
+}
